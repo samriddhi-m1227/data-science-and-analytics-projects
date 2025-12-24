@@ -48,11 +48,11 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy.
 
 ---
 
-### 🔹 Other Notebooks
+### 🔹 Other Smaller Projects
 
-[Inferential Statistics](https://github.com/samriddhi-m1227/Inferential-Statistics)
+[Inferential Statistics: Kidney Stone Method Prediction](https://github.com/samriddhi-m1227/Inferential-Statistics)
 
-[Descriptive Statistics](https://github.com/samriddhi-m1227/Descriptive-Statistics)
+[Descriptive Statistics: Womens Nutirent Intake](https://github.com/samriddhi-m1227/Descriptive-Statistics)
 
 [Python EDA](https://github.com/samriddhi-m1227/Python-EDA)
 
