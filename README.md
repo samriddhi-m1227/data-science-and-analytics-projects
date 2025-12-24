@@ -26,7 +26,7 @@ Python, Pandas, Data Visualization, Gemini AI, LLM API's.
 
 ---
 
-### 🔹 [Drowsiness Patterns from Wearable Sensors](https://github.com/samriddhi-m1227/healthcare-drowsiness-data-analysis)
+### 🔹 [Drowsiness Patterns from Wearable Sensors](https://github.com/samriddhi-m1227/Drowsiness-Patterns-from-Wearable-Sensors)
 Exploratory analysis of physiological sensor data collected from a Galaxy Watch4 smartwatch to study patterns associated with user-reported drowsiness levels.
 
 **Focus:**  
